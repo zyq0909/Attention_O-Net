@@ -6,4 +6,4 @@ A novel neural network alchitecture for junction detection.
 
 Accept by Journal of Biomedical Health and Informatics (J-BHI).
 
-The full source code will have been released (2021/06/28).
+The full source code have been released (2021/06/28).
